@@ -15,3 +15,19 @@ body{
     border-width: 1px;
     border-style:solid;
 }
+
+audio{
+    display: block;
+			margin: 20px auto;
+			width: 80%;
+}
+
+p{
+    color:aliceblue;
+    font-size:smaller;
+    font-weight:bold;
+    font-family:arial;
+    padding:15px;
+}
+
+
