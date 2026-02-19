@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .border{
 border-color : white;
 background-color : black;
@@ -9,3 +10,37 @@ background-color : black;
  display:flex;
  justify-content: space-between;
 }
+
+body{
+    background-color:black
+}
+.div1{
+     color:white;
+     font-size:smaller;
+     font-weight:bold;
+     font-family:arial;
+}
+.left{
+    border-right-color: white;
+    background-color:black;
+    max-width:480px;
+    height: 1080px;
+    border-width: 1px;
+    border-style:solid;
+}
+
+audio{
+    display: block;
+			margin: 20px auto;
+			width: 80%;
+}
+
+p{
+    color:aliceblue;
+    font-size:smaller;
+    font-weight:bold;
+    font-family:arial;
+    padding:15px;
+}
+
+
