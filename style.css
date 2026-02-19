@@ -1,0 +1,11 @@
+.border{
+border-color : white;
+background-color : black;
+}
+.right{
+    margin : 16px;
+}
+.header {
+ display:flex;
+ justify-content: space-between;
+}
