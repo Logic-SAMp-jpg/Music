@@ -11,7 +11,7 @@ body{
     border-right-color: white;
     background-color:black;
     max-width:480px;
-    height: 1080px;
+    height: auto;
     border-width: 1px;
     border-style:solid;
 }
