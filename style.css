@@ -98,7 +98,31 @@ table {
 .card:hover { transform: scale(1.08); box-shadow: 0 10px 20px rgba(255,255,255,0.3); }
 
 
+.nav{
+    background-color:rgb(154, 50, 68);
+    border-radius:15px;
+    text-align: center;
+    font-size:larger;
+    letter-spacing:1px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
 
+span{
+    color:rgb(154, 50, 68);
+    font-size: larger;
+    letter-spacing:2px;
+    font-family:arial;
+
+}
+.span1{
+    color:white;
+}
+.span2{
+    color:white;
+}
+.span3{
+    color:white;
+}
 
 
 
